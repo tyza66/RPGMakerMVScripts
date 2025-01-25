@@ -1,0 +1,3 @@
+需要PluginCommonBase,js文件
+文件在MZ安装目录下
+STEAM\steamapps\common\RPG Maker MZ\dlc\BasicResources\plugins\official
